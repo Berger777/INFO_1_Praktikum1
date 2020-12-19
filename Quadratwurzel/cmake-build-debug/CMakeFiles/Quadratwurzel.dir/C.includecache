@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum 1/Quadratwurzel/main.c
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+

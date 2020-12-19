@@ -1,0 +1,4 @@
+GCC
+----------
+Compile with Libary: gcc -lm 
+Compile with Output File Name: gcc -o name

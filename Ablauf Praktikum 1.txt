@@ -1,0 +1,7 @@
+1. Zeigen wie man in der konsole mit gcc bauen kann
+	-> gcc -o "filename"
+
+2. Projekt Quadratwurzel öffnen und Breakpoint setzen
+	-> debugger starten und value ändern
+
+3. Im Projekt die Lösung zeigen

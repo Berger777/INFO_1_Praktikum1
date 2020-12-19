@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/Quadratwurzel.dir/main.c.o  -o Quadratwurzel  -lm 
